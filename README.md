@@ -1,6 +1,6 @@
 BiliExp-Actions
 ====  
-##### 本分支为主分支的云函数功能的一部分，去除了对云函数的依赖，只需要github Actions就能使用，最新功能在本分支更新，因此会频繁变动，如无必要可以不及时更新代码(除非出现严重bug)
+##### 本233分支为主分支的云函数功能的一部分，去除了对云函数的依赖，只需要github Actions就能使用，最新功能在本分支更新，因此会频繁变动，如无必要可以不及时更新代码(除非出现严重bug)
 
 [![](https://img.shields.io/badge/author-%E6%98%9F%E8%BE%B0-red "作者")](https://github.com/happy888888/ )
 ![](https://img.shields.io/badge/dynamic/json?label=GitHub%20Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhappy888888&labelColor=282c34&color=181717&logo=github&longCache=true "关注数量")
